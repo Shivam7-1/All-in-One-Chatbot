@@ -6,8 +6,8 @@ import gradio as gr
 #if you have OpenAI API key as an environment variable, enable the below
 #openai.api_key = os.getenv("OPENAI_API_KEY")
 
-#if you have OpenAI API key as a string, enable the below
-openai.api_key = "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"
+#Enter Below Your Open API KEY
+openai.api_key = "sk-"
 
 start_sequence = "\nAI:"
 restart_sequence = "\nHuman: "
