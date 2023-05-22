@@ -54,3 +54,12 @@ print("Shareable link:", link)
 To use OpenAI's GPT-3 API, you must have a valid API key. The API key is stored as an environment variable. Alternatively, you can directly assign the key to openai.api_key as shown in the main.py file.
 
 If you do not have an API key, you can sign up for a free trial [here](https://beta.openai.com/signup/).
+
+## Flow Chart
+![Screenshot 2023-04-26 174129](https://github.com/Shivam7-1/All-in-One-Chatbot/assets/55046031/6a1be3a3-2b18-4843-b246-961d7feb962e)
+
+
+## Final Output
+![Screenshot 2023-04-07 170137](https://github.com/Shivam7-1/All-in-One-Chatbot/assets/55046031/be7fbb29-bd4d-400a-8455-2833bd7ef0c9)
+![Screenshot 2023-04-07 170153](https://github.com/Shivam7-1/All-in-One-Chatbot/assets/55046031/87886d5c-2427-4df6-ae52-f03b4ee3f662)
+
